@@ -13,8 +13,9 @@
 
 ### The challenge
 
-- Everyday the company's system updates the previous day's sales. 
-- As an analyst, you daily job is to send an e-mail to your superiors with the following informations: the income and how many products were sold total
+- After analysing the customer history from last years, you notice that the enterprise has a 26% of Churn from clients. This represents a big problem for the enterprise
+
+- What does the company need to do to resolve this?
 
 ### This project was developed during the special livestream "Intensivão de Python" by Hashtag Programação
 - Website: https://www.hashtagtreinamentos.com/
